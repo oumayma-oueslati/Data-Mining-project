@@ -12,3 +12,6 @@ Pour ce faire on va utilisé 4 modèles de Machine Learning: régression logisti
 ## Problématique
 
  - Comment comprendre le problème et voir quel est le meilleur modèle pour notre variable dépendante ?
+
+
+Projet réalisé par Oumayma Oueslati, Groupe B
